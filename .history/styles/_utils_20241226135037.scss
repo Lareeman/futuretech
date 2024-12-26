@@ -7,7 +7,7 @@
 }
 
 .visually-hidden {
-    @include visually-hidden;
+    @include visibility-hidden;
 }
 
 .hidden-mobile {
